@@ -1,0 +1,5 @@
+[02-Jul-2021 12:06:40 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Auth::female_signup() in /home1/seobywebitindia/public_html/dev/datingweb/application/modules/login/controllers/Auth.php on line 300
+[05-Jul-2021 20:11:40 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Auth::reset_password() in /home1/seobywebitindia/public_html/dev/datingweb/application/modules/login/controllers/Auth.php on line 556
+[05-Jul-2021 20:11:44 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Auth::reset_password() in /home1/seobywebitindia/public_html/dev/datingweb/application/modules/login/controllers/Auth.php on line 556
+[06-Jul-2021 13:35:29 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Auth::resend_mail_forgot_password() in /home1/seobywebitindia/public_html/dev/datingweb/application/modules/login/controllers/Auth.php on line 597
+[06-Jul-2021 13:35:33 Asia/Kolkata] PHP Fatal error:  Cannot redeclare Auth::resend_mail_forgot_password() in /home1/seobywebitindia/public_html/dev/datingweb/application/modules/login/controllers/Auth.php on line 597
